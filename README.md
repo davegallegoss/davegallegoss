@@ -14,9 +14,8 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React.
-  - Building server-side applications with Django or Express.js.
+- 🚀 I’m diving deep into React for building user interfaces and learning how to build RESTful APIs with Django and Express.js.
+  - I’m focused on creating scalable, maintainable, and user-friendly web applications.
 
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2024
